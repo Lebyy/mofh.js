@@ -1,0 +1,17 @@
+{
+  "name": "mofh.js",
+  "version": "0.0.0-indev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "fast-xml-parser": "^4.0.7",
+    "got": "^11.8.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
